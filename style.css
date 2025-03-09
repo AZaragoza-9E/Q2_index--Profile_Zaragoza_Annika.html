@@ -1,3 +1,18 @@
+* {
+	box-sizing: border-box;
+}
+
+li {
+	display: list-item;
+	text-align: -webkit-match-parent;
+	unicode-bidi: isolate;
+}
+
+ul {
+	list-style-type: disc;
+}
+
+	
 body {
 	backround-color: #191716;
 	color: #191716;
