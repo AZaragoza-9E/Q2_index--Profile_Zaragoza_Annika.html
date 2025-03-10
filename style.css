@@ -2,6 +2,11 @@
 	box-sizing: border-box;
 }
 
+body {
+	background: #A09EBB;
+	color: black;
+}
+
 li {
 	display: list-item;
 	text-align: -webkit-match-parent;
@@ -10,12 +15,6 @@ li {
 
 ul {
 	list-style-type: disc;
-}
-
-	
-body {
-	background: #A09EBB;
-	color: black;
 }
 
 .row {
