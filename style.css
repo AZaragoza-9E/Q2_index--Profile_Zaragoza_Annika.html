@@ -7,6 +7,11 @@ body {
 	color: black;
 }
 
+.container {
+	background: #A09EBB;
+	color: black;
+}
+
 li {
 	display: list-item;
 	text-align: -webkit-match-parent;
